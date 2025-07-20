@@ -1,5 +1,5 @@
 import React from "react";
-import homepng from "../../public/homepng.png";
+import homepng from "../assets/homepng.png";
 function HomeComp() {
   return (
     <div className="flex px-[14vw] py-[2vh] gap-25 text-center">
